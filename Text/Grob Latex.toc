@@ -1,0 +1,21 @@
+\babel@toc {ngerman}{}
+\contentsline {chapter}{\numberline {1}Einleitung}{2}
+\contentsline {section}{\numberline {1.1}Epilepsie}{2}
+\contentsline {chapter}{\numberline {2}Material und Methoden}{3}
+\contentsline {section}{\numberline {2.1}Chemikalien und L\IeC {\"o}sungen}{3}
+\contentsline {subsection}{\numberline {2.1.1}Verwendete Chemikalien}{3}
+\contentsline {subsection}{\numberline {2.1.2}Herstellen der L\IeC {\"o}sungen}{3}
+\contentsline {section}{\numberline {2.2}Ger\IeC {\"a}te}{3}
+\contentsline {section}{\numberline {2.3}Versuchstiere}{3}
+\contentsline {section}{\numberline {2.4}Methoden}{3}
+\contentsline {subsection}{\numberline {2.4.1}Pilokarpininjektion}{3}
+\contentsline {subsection}{\numberline {2.4.2}Pr\IeC {\"a}paration der Hirnschnitte}{4}
+\contentsline {subsection}{\numberline {2.4.3}Elektrophysiologiesche Messungen}{5}
+\contentsline {subsubsection}{Ziehen von Pipetten}{6}
+\contentsline {subsubsection}{Feldpotentialmessungen}{6}
+\contentsline {subsubsection}{Intrazellul\IeC {\"a}re Messungen}{6}
+\contentsline {chapter}{\numberline {3}Ergebnisse}{7}
+\contentsline {section}{\numberline {3.1}Einfluss von Bromid auf die Langzeitpotenzierung}{7}
+\contentsline {section}{\numberline {3.2}Charakterisierung der Membraneigenschaften}{9}
+\contentsline {section}{\numberline {3.3}Input-Output Potentiale}{11}
+\contentsline {section}{\numberline {3.4}Umkehrpotentiale}{13}
