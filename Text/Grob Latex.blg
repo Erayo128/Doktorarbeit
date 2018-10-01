@@ -1,6 +1,10 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Grob Latex.aux
 The style file: plain.bst
 Database file #1: Literaturverzeichnis.bib
+I was expecting a `,' or a `}'---line 139 of file Literaturverzeichnis.bib
+ : @misc{Schneble 
+ :                2013,
+I'm skipping whatever remains of this entry
 Warning--there's a number but no volume in Hauptmann.1912
 Warning--there's a number but no volume in Sieveking.1857
-(There were 2 warnings)
+(There was 1 error message)
